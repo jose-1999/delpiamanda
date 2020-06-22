@@ -244,7 +244,7 @@ def menuutama():
 		jenis = input("Bank")
 	elif (transaksi == 2):
 		jenis = input("Indomart")
-	x=input("terima kasih sudah berbelanja ditoko kami :)")
+	x=input("terima kasih sudah berbelanja ditoko G.211.18.0034 Iksandro :)")
 	print("..............................................")
 	if(input("mau lanjut?[Y/N] :")=="N" or "n"):
 		exit()
